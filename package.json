@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppeteer js",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node puppeteer.js"
+  },
+  "author": "Mioun",
+  "license": "Apache"
+}
